@@ -1,0 +1,10 @@
+email:
+  smtpServer: smtp.yandex.ru
+  user: 
+  psw: 
+  recipient: 
+servers:
+  __.13.1_9._1:
+    user: _____
+    psw: _____
+    port: 57335   
